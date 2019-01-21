@@ -1,6 +1,8 @@
 # Conan package for the draco library
 This is [Conan.io](https://conan.io) package for the [Draco](https://google.github.io/draco/) library. This package includes main libraries and utilities.
 
+The packages generated with this **conanfile** can be found in [bintray.com](https://bintray.com/ableigdev/public-conan/draco%3Aableigdev)
+
 # Setup
 If you want to use this package you should add remote repository to your list:
 
