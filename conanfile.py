@@ -7,7 +7,7 @@ class DracoConan(ConanFile):
     Conan package for the draco library https://github.com/google/draco
     """
     name = "draco"
-    version = "1.3.4"
+    version = "1.3.5"
     license = "Apache-2.0"
     description = "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics."
     url = "https://github.com/ableigdev/conan-draco.git"
