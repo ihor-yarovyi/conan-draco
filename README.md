@@ -14,7 +14,7 @@ If you want to use this package you should add remote repository to your list:
 When you added the ableigdev remote repository, you can write in your project:
 
     [requiers]
-    draco/1.3.4@ableigdev/stable
+    draco/1.3.5@ableigdev/stable
 
 # Issues
 If you have issues and you want to report about them, please, do it here: https://github.com/ableigdev/conan-draco/issues
